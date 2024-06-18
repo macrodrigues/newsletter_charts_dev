@@ -1,0 +1,9 @@
+keys.env
+data/*
+__pycache__
+.ipynb_checkpoints
+notebooks/*
+scraping/*
+tools/*
+main.py
+requirements.txt
