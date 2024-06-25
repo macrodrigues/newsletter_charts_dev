@@ -7,3 +7,4 @@ scraping/*
 tools/*
 main.py
 requirements.txt
+eda.ipynb
